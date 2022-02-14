@@ -1,1 +1,1 @@
-Deleting the line
+This is newfile2.txt
