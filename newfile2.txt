@@ -1,1 +1,2 @@
 This is newfile2.txt
+Change 3
